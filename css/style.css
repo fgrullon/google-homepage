@@ -1,0 +1,84 @@
+.logo{
+  margin-left: 300px;
+  margin-top: 100px;
+  height: 130px;
+}
+
+.bar{
+  width: 500px;
+  height: 40px;
+  margin-left: 240px;
+}
+
+.botones {
+  margin-left: 300px;
+}
+
+.botones input{
+  margin-top: 10px;
+  height:35px;
+  width: 180px;
+  background-color: #DCDCDC;
+  border: none;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+    font-size: 15px !important;
+
+}
+
+.barra img{
+  margin-left: 10px;
+}
+.mensaje{
+  width: 30px;
+  height: 30px;
+    margin-top: -8px;
+
+}
+
+.foto{
+  width: 40px;
+  height: 40px;
+  margin-right: 10px;
+  margin-top: -10px;
+}
+.barra{
+  height: 100px;
+}
+  .barra a{
+    height: 40px;
+    float: right;
+    padding-left: 10px;
+    margin-top: 30px;
+
+
+  }
+a{
+
+  text-decoration: none;
+  font-size: 15px !important;
+  color: inherit;
+
+}
+
+footer{
+ width: 100%; /*new*/
+  bottom: 0; /*new*/
+  position: fixed; /*new*/
+  background-color: #dddddd;
+  height: 30px;
+}
+ul{
+    display: block;
+    margin-top: 8px !important;
+
+
+}
+
+.second{
+    margin-left: 60%;
+}
+
+li {
+  float: left;
+  margin-left: 20px !important;
+}
